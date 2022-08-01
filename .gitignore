@@ -4,4 +4,4 @@
 # local env files
 /backend/config/config.env
 
-.env
+/.env
